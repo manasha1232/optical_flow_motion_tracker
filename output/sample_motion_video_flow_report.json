@@ -1,0 +1,9 @@
+{
+    "video_source": "sample_motion_video",
+    "total_frames_processed": 150,
+    "total_time_seconds": 19.66,
+    "average_fps": 7.6,
+    "average_motion_speed_px": 0.27,
+    "peak_motion_speed_px": 99.81,
+    "output_video": "output\\sample_motion_video_optical_flow_dual.mp4"
+}
